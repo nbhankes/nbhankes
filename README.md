@@ -9,5 +9,8 @@ I spend my nights building my proficiency in ↪️ HTML, CSS, JavaScript, Git, 
 
 I'm excited to learn these next ↪️ Python & Rust
 
-Design Doodles and Drafts: [CodePen](https://codepen.io/nbhankes)
-Technical Articles and Blog: [Dev.to](https://dev.to/nbhankes)
+Design Doodles and Drafts: [CodePen](https://codepen.io/nbhankes) <br>
+Technical Articles and Blog: [Dev.to](https://dev.to/nbhankes) <br>
+LinkedIn: [Nathan Hankes](https://www.linkedin.com/in/nbhankes/) <br>
+
+@nbhankes everywhere else.
