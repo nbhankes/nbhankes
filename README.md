@@ -1,16 +1,13 @@
-### Hi there 👋
+Welcome! My name is Nate.
 
-<!--
-**nbhankes/nbhankes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m a recent [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate. <br>
+🌞 By day, I work as a research & development and QA/QC chemist. <br>
+🌜 By night, I study to understand the most popular languages and frameworks intimately and apply this knowledge building projects. <br>
+🚀 My goal is to become a professional frontend developer that helps create the future. 
 
-Here are some ideas to get you started:
+I spend my nights building my proficiency in ↪️ HTML, CSS, JavaScript, Git, Node, React, GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm excited to learn these next ↪️ Python & Rust
+
+Design Doodles and Drafts: [CodePen](https://codepen.io/nbhankes)
+Technical Articles and Blog: [Dev.to](https://dev.to/nbhankes)
