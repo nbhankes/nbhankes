@@ -1,4 +1,4 @@
-##My name is Nate.
+# My name is Nate.
 
 🔭 I’m a recent [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate. <br>
 🌞 By day, I work as a research & development and QA/QC chemist. <br>
