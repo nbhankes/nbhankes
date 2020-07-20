@@ -1,6 +1,6 @@
 Welcome! My name is Nate.
 
-[Nate's github stats](https://github-readme-stats.vercel.app/api?username=nbhankes&title_color=red&icon_color=orange&text_color=yellowf&bg_color=green&hide=["stars"])
+![Nate's github stats](https://github-readme-stats.vercel.app/api?username=nbhankes&title_color=red&icon_color=orange&text_color=yellowf&bg_color=green&hide=["stars"])
 
 🔭 I’m a recent [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate. <br>
 🌞 By day, I work as a research & development and QA/QC chemist. <br>
