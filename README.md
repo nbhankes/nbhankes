@@ -14,3 +14,6 @@ Technical Articles and Blog: [Dev.to](https://dev.to/nbhankes) <br>
 LinkedIn: [Nathan Hankes](https://www.linkedin.com/in/nbhankes/) <br>
 
 @nbhankes everywhere else.
+
+
+[![Nate's github stats](https://github-readme-stats.vercel.app/api?username=nbhankes)](https://github.com/nbhankes/github-readme-stats)
