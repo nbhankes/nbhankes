@@ -3,7 +3,7 @@
 🔭 I’m a recent [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate. <br>
 🌞 By day, I work as a research & development and QA/QC chemist. <br>
 🌜 By night, I study to intimately understand the most popular languages and frameworks and apply this knowledge building projects. <br>
-🚀 My goal is to become a professional frontend developer that helps create the future.
+🚀 My goal is to become a professional software developer that helps create the future.
 
 I spend my nights building my proficiency in ↪️ HTML, CSS, JavaScript, Git, Node, React, GraphQL
 
