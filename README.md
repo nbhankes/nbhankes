@@ -18,4 +18,4 @@ I'm excited to learn these next ↪️ Python & Rust
 #### Technical Articles and Blog: [Dev.to](https://dev.to/nbhankes) <br>
 #### LinkedIn: [Nathan Hankes](https://www.linkedin.com/in/nbhankes/) <br>
 
-##### @nbhankes everywhere else.
+#### @nbhankes everywhere else.
