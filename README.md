@@ -1,4 +1,4 @@
-## Welcome. My name is Nate.
+# Welcome. My name is Nate.
 
 ### 🔭 I’m a recent [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate. <br>
 ### 🌞 By day, I work as a research & development and QA/QC chemist. <br>
@@ -11,8 +11,8 @@
 
 <hr />
 
-# Design Doodles and Drafts: [CodePen](https://codepen.io/nbhankes) <br>
-# Technical Articles and Blog: [Dev.to](https://dev.to/nbhankes) <br>
-# LinkedIn: [Nathan Hankes](https://www.linkedin.com/in/nbhankes/) <br>
+## Design Doodles and Drafts: [CodePen](https://codepen.io/nbhankes) <br>
+## Technical Articles and Blog: [Dev.to](https://dev.to/nbhankes) <br>
+## LinkedIn: [Nathan Hankes](https://www.linkedin.com/in/nbhankes/) <br>
 
-# @nbhankes everywhere else.
+## @nbhankes everywhere else.
