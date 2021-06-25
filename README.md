@@ -14,9 +14,9 @@ I enjoy creating static content website. I built both of these from scratch to r
 
 ### 🚀 My goal is to become a professional software developer that helps create the future.
 
-### What I'm working with now ↪️ HTML, CSS, JavaScript, Git, Node, React, MongoDB, Apollo, and GraphQL
+### What I'm working with now ↪️ HTML, CSS, JavaScript, Git, Node, React, and GraphQL
 
-### I'm excited to learn these next ↪️ Python & Rust 
+### I'm excited to learn these next ↪️ NextJS and SEO Optimization 
 
 <hr />
 
