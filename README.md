@@ -1,6 +1,6 @@
 ## Welcome. My name is Nate.
 
-### 🔭 I’m a recent [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate. <br>
+### 🔭 I’m a [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate. <br>
 🌞 By day, I work as a research & development and QA/QC chemist. <br>
 🌜 By night and early morning, I study to understand the most popular languages and frameworks and apply this knowledge building projects. <br>
 
