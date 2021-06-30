@@ -6,7 +6,7 @@
 
 My most recent fullstack project is a drag and drop [dimensional analysis calculator](https://dimensional-analysis-app.netlify.app/) This project was built with GatsbyJS, Apollo, Express, Node, MongoDB, and GraphQL. The backend is hosted by Heroku and the front end is deployed with Netlify.
 
-I enjoy creating static content website. I built both of these from scratch to really learn the basics. I'm looking forward to using Hugo or Ghost on my next static content project.
+I enjoy creating building websites with HTML, CSS, and enough JavaScript to be fun and functional. I built both of the projects below from scratch to really learn the basics of semantic HTML, SEO, CSS, Responsive Web Design, and more.
 
 [N. B. Hankes Portfolio website](https://www.nbhankes.dev/)
 
