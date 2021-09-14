@@ -16,7 +16,7 @@ I built both of the projects below from scratch to really understand the basics 
 
 What I'm working with now ↪️ HTML, CSS/SASS, JavaScript, Git, React and Vue, and GraphQL
 
-I'm excited to learn these next ↪️ NextJS and Authentication and Authorization
+I'm excited to learn these next ↪️ C#, NextJS, and Authentication and Authorization
 
 <hr />
 
