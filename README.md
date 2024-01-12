@@ -1,11 +1,14 @@
 ## Welcome. My name is Nate.
 
-### 🔭 I’m a [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate. <br>
+### 🔭 I’m a [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate and a frontend developer at Hydrofarm, a B2B e-commerce company. <br>
 
-I built and maintain [Veteran Artist Residencies Non-Profit](https://www.veteranarts.org/)
+#### Technical Articles and Blog: [Dev.to](https:nbhankes.dev) <br>
 
-#### Design Doodles and Drafts: [CodePen](https://codepen.io/nbhankes) <br>
-#### Technical Articles and Blog: [Dev.to](https://dev.to/nbhankes) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Using Sass In Nuxt.js](https://www.nbhankes.dev/posts/2021/sass-in-nuxt.html)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Getting Started with C#: Classes, Objects, and Namespaces](https://www.nbhankes.dev/posts/2023/getting-started-with-c-sharp.html)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Make a Variable Globally Available in Vue 3](https://www.nbhankes.dev/posts/2023/making-a-variable-globally-available-in-vue-three.html)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Uncaught FirebaseError: Firebase: Error (auth/invalid-api-key)](https://www.nbhankes.dev/posts/2023/firebase-error-invalid-api-key.html)<br><br>
+
 #### LinkedIn: [Nathan Hankes](https://www.linkedin.com/in/nbhankes/) <br>
 
 #### @nbhankes everywhere else.
