@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[Using Sass In Nuxt.js](https://www.nbhankes.dev/posts/2021/sass-in-nuxt.html)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Getting Started with C#: Classes, Objects, and Namespaces](https://www.nbhankes.dev/posts/2023/getting-started-with-c-sharp.html)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Make a Variable Globally Available in Vue 3](https://www.nbhankes.dev/posts/2023/making-a-variable-globally-available-in-vue-three.html)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Uncaught FirebaseError: Firebase: Error (auth/invalid-api-key)](https://www.nbhankes.dev/posts/2023/firebase-error-invalid-api-key.html)<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Uncaught FirebaseError: Firebase: Error (auth/invalid-api-key)](https://www.nbhankes.dev/posts/2023/firebase-error-invalid-api-key.html)<br>
 
 #### LinkedIn: [Nathan Hankes](https://www.linkedin.com/in/nbhankes/) <br>
 
