@@ -2,7 +2,7 @@
 
 ### 🔭 I’m a [#vetswhocode](https://vetswhocode.io/) coding bootcamp graduate and a frontend developer at Hydrofarm, a B2B e-commerce company. <br>
 
-#### Technical Articles and Blog: [Dev.to](https:nbhankes.dev) <br>
+#### Technical Articles and Blog: [nbhankes.dev](https:nbhankes.dev) <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Using Sass In Nuxt.js](https://www.nbhankes.dev/posts/2021/sass-in-nuxt.html)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Getting Started with C#: Classes, Objects, and Namespaces](https://www.nbhankes.dev/posts/2023/getting-started-with-c-sharp.html)<br>
